@@ -1,0 +1,10 @@
+The instructions are:
+
+1. click on any square to start game, doesn't matter which one to start
+2. a bunch of numbers and empty spaces, or just one number will appear where you click. Those numbers are called neighbors
+3. the neighbors depict how many mines are touching that square (up, down, left, right, and diagonals)
+4. if you are certain that there is a mine under a certain square, right click on it to flag it, once flagged, square can not be clicked, to get rid of flag, click the middle mouse button
+5. to win, all squares must be clicked revealed, and mines must be flagged
+
+HAVE FUN!
+Remember, this is a game of chance, or strategy, your choice ;)
